@@ -33,7 +33,7 @@ gem 'pg', '~> 1.1'
 # Object oriented authorization for Rails applications
 gem 'pundit', '~> 2.1'
 # Use Puma as the app server
-gem 'puma', '~> 5.0'
+gem 'puma', '~> 5.5'
 # Use Redis adapter to run Action Cable in production
 gem 'redis', '~> 4.0'
 # Use SCSS for stylesheets
